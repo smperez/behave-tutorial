@@ -1,6 +1,6 @@
-Feature: showing off behave
+Feature: Demostración de Behave
 
-  Scenario: run a simple test
+  Scenario: Ejecutar una prueba básica de Behave
      Given we have behave installed
       When we implement a test
       Then behave will test it for us!
